@@ -4,7 +4,7 @@
     -moz-transition: 0.2s ease-in-out;
 }
 ::selection {
-    background: green;
+    background: blue;
     color: #fff;
     text-shadow: none;
 }
@@ -12,7 +12,7 @@ html, body {
     margin: 0;
     padding: 0;
     color: #999;
-    font-family: 'Microsoft Yahei','微软雅黑',arial;
+    font-family: Verdana, Geneva,sans-serif;
 }
 html {
     background-color: #1b2426;
@@ -100,7 +100,7 @@ a:hover {
 #lyricContainer {
     position: relative;
     top: 130px;
-    text-shadow: 1px 0 0 #000, -1px 0 0 #000, 0 1px 0 #000, 0 -1px 0 #000; 
+    text-shadow: 2px 0 0 #000, -2px 0 0 #000, 0 2px 0 #000, 0 -2px 0 #000; 
 }
 
 /*the highlight color of the current lyric line*/
