@@ -2,7 +2,11 @@
     "data": [{
         "song_name": "Civil War & Reconstruction (Instrumental)",
         "artist": "JiDenna/UAP",
-        "lrc_name": "civilwarinstrumental"
+        "lrc_name": "civilwar"
+    }, {
+        "song_name": "There Ain't Nothing Civil in War",
+        "artist": "JiDenna/UAP",
+        "lrc_name": "nothingcivilinwar"
     }, {
         "song_name": "Civil War & Reconstruction (Vocal)",
         "artist": "JiDenna/UAP",
@@ -10,6 +14,6 @@
     }, {
         "song_name": "Civil War & Reconstruction",
         "artist": "JiDenna/UAP",
-        "lrc_name": "civilwar"
+        "lrc_name": "civilwarinstrumental"
     }]
 }
