@@ -1,6 +1,6 @@
 {
     "data": [{
-        "song_name": "Civil War & Reconstruction (Instrumental)",
+        "song_name": "Civil War & Reconstruction",
         "artist": "JiDenna/UAP",
         "lrc_name": "civilwar"
     }, {
@@ -12,7 +12,7 @@
         "artist": "JiDenna/UAP",
         "lrc_name": "civilwarvocal"
     }, {
-        "song_name": "Civil War & Reconstruction",
+        "song_name": "Civil War & Reconstruction (Instrumental)",
         "artist": "JiDenna/UAP",
         "lrc_name": "civilwarinstrumental"
     }]
