@@ -1,7 +1,11 @@
 {
     "data": [{
         "song_name": "There Ain't Nothing Civil in War",
-        "artist": "JiDenna/UAP",
+        "artist": "JiDenna",
         "lrc_name": "nothingcivilinwar"
+	  },
+	    "song_name": "Civil War and Reconstruction",
+        "artist": "JiDenna",
+        "lrc_name": "civilwar"
 	  }]
 }
