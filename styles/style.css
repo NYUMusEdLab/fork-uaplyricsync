@@ -69,6 +69,7 @@ a:hover {
 }
 .info a {
     color: #bbb;
+    max-width: 80px;
     text-decoration: underline;
 }
 .bg {
